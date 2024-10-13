@@ -11,6 +11,9 @@ Ce projet vise à simplifier cette démarche en proposant un système de recomma
 
 ## Dataset
 Le dataset présente des informations sur différents parfums. Il contient trois colonnes : la colonne "brand" indique la marque du parfum, la colonne "perfume" donne le nom du parfum, et la colonne "notes" décrit les accords olfactifs associés à chaque parfum.
+
+<img width="530" alt="Capture d’écran 2024-10-13 183503" src="https://github.com/user-attachments/assets/fc7b37e0-bcad-4b42-b576-d3b804430feb">
+
 ## Technologies Utilisées
 Python
 
