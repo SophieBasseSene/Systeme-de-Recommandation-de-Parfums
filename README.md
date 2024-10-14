@@ -39,10 +39,12 @@ Notre système de recommandation est basé sur le **filtrage basé sur le conten
 
 ## Demo
 
-<img width="811" alt="Capture d’écran 2024-10-14 161652" src="https://github.com/user-attachments/assets/21570ab7-2eef-4568-87cc-88d294c57253">
-<img width="750" alt="Capture d’écran 2024-10-14 161605" src="https://github.com/user-attachments/assets/f3d74e51-7c9e-4c20-bf82-4008f03b2e9d">
-<img width="794" alt="Capture d’écran 2024-10-14 161530" src="https://github.com/user-attachments/assets/78a60980-4ac3-4a07-8549-e7aea1859a96">
 <img width="774" alt="Capture d’écran 2024-10-14 161506" src="https://github.com/user-attachments/assets/cc2dbc2a-b751-4f30-afba-021c1cfa2a7a">
+<img width="794" alt="Capture d’écran 2024-10-14 161530" src="https://github.com/user-attachments/assets/78a60980-4ac3-4a07-8549-e7aea1859a96">
+<img width="750" alt="Capture d’écran 2024-10-14 161605" src="https://github.com/user-attachments/assets/f3d74e51-7c9e-4c20-bf82-4008f03b2e9d">
+<img width="811" alt="Capture d’écran 2024-10-14 161652" src="https://github.com/user-attachments/assets/21570ab7-2eef-4568-87cc-88d294c57253">
+
+
 
 
 
