@@ -43,7 +43,6 @@ Une fois que les notes sont vectorisées, nous appliquons la **similarité cosin
 
 <img width="774" alt="Capture d’écran 2024-10-14 161506" src="https://github.com/user-attachments/assets/cc2dbc2a-b751-4f30-afba-021c1cfa2a7a">
 <img width="811" alt="Capture d’écran 2024-10-14 161652" src="https://github.com/user-attachments/assets/f9956b96-eaae-4ae0-99be-c3392d0b5ad5">
-<img width="750" alt="Capture d’écran 2024-10-14 161605" src="https://github.com/user-attachments/assets/459ddca9-4ab0-43cb-8a4c-d8c5a688ab53">
 <img width="794" alt="Capture d’écran 2024-10-14 161530" src="https://github.com/user-attachments/assets/cd949416-6144-41d5-a0e4-efb4c694d0d9">
 <img width="911" alt="Capture d’écran 2024-10-17 134708" src="https://github.com/user-attachments/assets/d7c05568-926d-4c88-8fa8-3c8758e73dfe">
 
